@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5790",
+  "folder": "Movies___._hcmi7M3a2TQ_360p_20260515195519_3e8416",
+  "base_name": "Movies___._hcmi7M3a2TQ_360p_20260515195519_3e8416.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mopo1384-boop/Cloud-Downloads-1/releases/tag/co-releases-v1-5790",
+  "files": [
+    {
+      "name": "Movies___._hcmi7M3a2TQ_360p_20260515195519_3e8416.mp4",
+      "url": "https://github.com/mopo1384-boop/Cloud-Downloads-1/releases/download/co-releases-v1-5790/Movies___._hcmi7M3a2TQ_360p_20260515195519_3e8416.mp4",
+      "api_url": "https://api.github.com/repos/mopo1384-boop/Cloud-Downloads-1/releases/assets/421273406",
+      "id": 421273406,
+      "size": 86146567,
+      "download_count": 0
+    }
+  ]
+}
